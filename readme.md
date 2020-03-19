@@ -1,4 +1,4 @@
-### Sample lesson
+## Sample lesson
 
 The instructions are to:
 
@@ -11,3 +11,8 @@ The instructions are to:
 > 4.  Any notebooks or slides you would use to support delivery of the lesson.
 
 My plan is to teach a sample lesson about _selecting_ data from a rectangle.
+
+### Learner persona
+
+Firstly, let's outline a learner persona:
+
