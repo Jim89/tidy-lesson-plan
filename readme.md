@@ -10,7 +10,11 @@ The instructions are to:
 > 3.  At least one formative assessment (such as a multiple choice question or Parsons Problem).
 > 4.  Any notebooks or slides you would use to support delivery of the lesson.
 
-My plan is to teach a sample lesson about _selecting_ data from a rectangle.
+
+### Lesson concept
+
+My plan is to teach a sample lesson about extracting data from a rectangle
+using the `dplyr` package.
 
 ### Learner persona
 
@@ -23,3 +27,25 @@ Firstly, let's outline a learner persona.
 * In their free time they enjoy baking, reading, and going to the cinema
 
 #### Starting point
+
+* Jo has familiarity with data analysis, and has some experience with R from
+  their previous academic experience
+* Jo is _aware of_ the `tidyverse`, but doesn't have experience using it
+* Jo has taught themselves aspects of R in the past, and is confident that they
+  can do it again
+
+#### Needs
+
+* Jo has volunteered to assist with some academic research, and will be the primary
+  data analyst for the project, with limited support from others
+* Jo knows that they may be sent several versions of the data, as their
+  collaborators will be continually collecting results and re-providing the
+  data, and doesn't want to have to re-code everything each time
+* Jo knows their results will need to be reproducible as they will submit it to a
+  journal
+
+#### Special considerations
+
+* As a medical student, they don't have a lot of time to learn extra material,
+  and they will only want to focus on what's needed for them to get their
+  research done.
