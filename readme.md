@@ -49,3 +49,11 @@ Firstly, let's outline a learner persona.
 * As a medical student, they don't have a lot of time to learn extra material,
   and they will only want to focus on what's needed for them to get their
   research done.
+
+#### Pitch
+
+> "In this lesson, we're going to cover one of the _most important_ elements of
+> data analysis: how to work with tablular data to extract just the bits of it
+> that you need. We'll cover the two main applications: selecting columns and
+> filtering rows, and show how to use both to get the subsets of data you need
+> for your work."
