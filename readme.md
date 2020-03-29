@@ -22,9 +22,9 @@ Firstly, let's outline a learner persona.
 
 #### General background - a specific example
 
-* Jo is a British-Nigerian, born and raised in London
+* Jo is British-Nigerian, born and raised in London
 * They now live in the US, having moved to attend medical school
-* In their free time they enjoy baking, reading, and going to the cinema
+* In their free time they enjoy baking, reading, and dancing
 
 #### Starting point
 
