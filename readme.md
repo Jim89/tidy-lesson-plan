@@ -28,7 +28,7 @@ Firstly, let's outline a learner persona.
 
 #### Starting point
 
-* Jo has familiarity with data analysis, and has some experience with R from
+* Jo has familiarity with data analysis, and has familarity with base R from
   their previous academic experience
 * Jo is _aware of_ the `tidyverse`, but doesn't have experience using it
 * Jo has taught themselves aspects of R in the past, and is confident that they
